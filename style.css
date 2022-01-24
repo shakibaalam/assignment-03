@@ -6,11 +6,11 @@ body{
     font-family: 'Poppins', sans-serif;
     background-image: linear-gradient(90deg, #ff9a9e, #fadec4);
 }
-.navigation{
+ .navigation{
     height: 80px;
 }
 .slider{
-    min-height: calc(100vh - 80px);
+    height: calc(100vh - 80px);
 }
 .nav-color{
     color: purple;
